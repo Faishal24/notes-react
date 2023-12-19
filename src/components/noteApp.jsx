@@ -1,5 +1,5 @@
 import React from "react";
-import NoteHeader from "/noteHeader";
+import NoteHeader from "./noteHeader";
 import NoteBody from "./noteBody";
 
 class NoteApp extends React.Component {
